@@ -4,6 +4,4 @@ But
 Ill considered change
 <<<<<<< HEAD
 Mars is bad!
-=======
 Mars is great
->>>>>>> f733a8f5b81968e90f349a5ca001b8531e2e571a
