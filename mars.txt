@@ -2,4 +2,8 @@ Cold and dry, but everything is my favorate color.
 The two moons may be a probelm for Wolfman.
 But 
 Ill considered change
+<<<<<<< HEAD
 Mars is bad!
+=======
+Mars is great
+>>>>>>> f733a8f5b81968e90f349a5ca001b8531e2e571a
